@@ -28,5 +28,5 @@ I'm a Computer Science graduate focused on building full-stack applications, bac
 Looking for Software Engineering opportunities where I can build scalable applications, work across the stack, and continue growing as an engineer.
 
 [LinkedIn](https://www.linkedin.com/in/k3nn3th-g33/)
-[Resume](./K3nnyG33/Kenneth_Gee_Software_Engineer_Resume.pdf)
+[Resume](./Kenneth_Gee_Software_Engineer_Resume.pdf)
 
