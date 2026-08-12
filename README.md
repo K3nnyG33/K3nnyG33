@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kenneth 👋
 
-<!--
-**K3nnyG33/K3nnyG33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate focused on building full-stack applications, backend systems, and AI-powered developer tools.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java, JavaScript, Python, C
+**Frontend:** React, Vite
+**Backend:** Node.js, Express.js
+**Databases:** MongoDB, SQL
+**AI/ML:** OpenAI API
+**Tools:** Git, GitHub, Docker, REST APIs
+
+### 🚀 Featured Projects
+
+* **AI Code Reviewer** — Full-stack application that analyzes JavaScript code and provides AI-powered code quality recommendations.
+* **Algorithm Visualizer** — Interactive React application for visualizing and understanding common algorithms.
+* **REST API** — Backend application implementing authentication, database integration, and RESTful API architecture.
+
+### 🎯 Currently
+
+Looking for Software Engineering opportunities where I can build scalable applications, work across the stack, and continue growing as an engineer.
+
+[LinkedIn](https://www.linkedin.com/in/k3nn3th-g33/)
+[Resume](
+
