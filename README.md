@@ -5,11 +5,17 @@ I'm a Computer Science graduate focused on building full-stack applications, bac
 ### 🛠️ Technologies
 
 **Languages:** Java, JavaScript, Python, C
+
 **Frontend:** React, Vite
+
 **Backend:** Node.js, Express.js
+
 **Databases:** MongoDB, SQL
+
 **AI/ML:** OpenAI API
+
 **Tools:** Git, GitHub, Docker, REST APIs
+
 
 ### 🚀 Featured Projects
 
