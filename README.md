@@ -19,9 +19,9 @@ I'm a Computer Science graduate focused on building full-stack applications, bac
 
 ### 🚀 Featured Projects
 
-* **AI Code Reviewer** — Full-stack application that analyzes JavaScript code and provides AI-powered code quality recommendations.
-* **Algorithm Visualizer** — Interactive React application for visualizing and understanding common algorithms.
-* **REST API** — Backend application implementing authentication, database integration, and RESTful API architecture.
+* [AI Code Reviewer](https://github.com/K3nnyG33/AI-Code-Reviewer) — Full-stack application that analyzes JavaScript code and provides AI-powered code quality recommendations.
+* [Algorithm Visualize](https://github.com/K3nnyG33/Algorithm-Visualizer) — Interactive React application for visualizing and understanding common algorithms.
+* **REST API** — Backenapplication implementing authentication, database integration, and RESTful API architecture.
 
 ### 🎯 Currently
 
